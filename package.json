@@ -1,0 +1,29 @@
+{
+  "name": "sql-blog",
+  "version": "1.0.0",
+  "description": "Blog showcasing CRUD operations with Sequelize and Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "sequelize",
+    "crud",
+    "blog"
+  ],
+  "author": "Reid Young",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "cookie-parser": "^1.4.3",
+    "dateformat": "^3.0.3",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3",
+    "serve-favicon": "^2.5.0"
+  }
+}
